@@ -1,0 +1,6 @@
+{
+    "descripcion": "exito",
+    "estado": 200,
+    "datos": "http://localhost:8080/opendata/sh/d1",
+    "metadatos": "http://localhost:8080/opendata/sh/md1"
+}
